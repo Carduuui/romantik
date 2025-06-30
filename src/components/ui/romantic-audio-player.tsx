@@ -8,15 +8,11 @@ import { Card } from "@/components/ui/card"
 
 interface RomanticAudioPlayerProps {
   src: string
-  title?: string
-  artist?: string
   className?: string
 }
 
 export function RomanticAudioPlayer({
   src,
-  title = "Audio Track",
-  artist = "Unknown Artist",
   className = "",
 }: RomanticAudioPlayerProps) {
   const audioRef = useRef<HTMLAudioElement>(null)
@@ -128,12 +124,6 @@ export function RomanticAudioPlayer({
       className={`p-6 bg-gradient-to-br from-rose-50/80 to-purple-50/80 backdrop-blur-sm border-rose-200/50 shadow-lg ${className}`}
     >
       <audio ref={audioRef} src={src} preload="metadata" />
-
-      {/* Track Info */}
-      <div className="mb-4 text-center">
-        <h3 className="font-semibold text-gray-900 text-lg">{title}</h3>
-        <p className="text-sm text-gray-600">{artist}</p>
-      </div>
 
       {/* Progress Bar */}
       <div className="mb-4">
