@@ -77,10 +77,8 @@ export default function RomanticismWebsite() {
 
   return (
     <>
-    <Head>
       <title>Romantik</title>
       <link rel="icon"href="/logo_files/logo.png"/>
-    </Head>
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-rose-50 to-amber-50">
       {/* Header */}
       <header className="border-b bg-white/80 backdrop-blur-sm sticky top-0 z-50">
