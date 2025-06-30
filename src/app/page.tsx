@@ -273,7 +273,7 @@ lyrisches Ich ungefähr 25-mal erwähnt
                   lyrisches Ich hat paar Probleme mit dem es zu kämpfen hat (S.3 V.1)
                   </li> 
                   <li>
-                  lyrisches Ich ist einsam -> ist im Wald zuhause (S.3 V.3)
+                {"lyrisches Ich ist einsam -> ist im Wald zuhause (S.3 V.3)"}
                     </li>
                     <li>
                     das lyrische Ich ist ein bisschen ich zietiere Linus hui hui (mit Hand schütteln vorm Kopf (Schere))
@@ -285,7 +285,7 @@ lyrisches Ich ungefähr 25-mal erwähnt
                     Natur ist die Grundlage des Menschen
                     </li>
                     <li>
-                    Erlösung des Menschen -> erweitert die Freiheit 
+                    {"Erlösung des Menschen -> erweitert die Freiheit"}
                     </li>
                     <li>
                     Natur prägt den Charakter des Menschen
@@ -327,7 +327,7 @@ lyrisches Ich ungefähr 25-mal erwähnt
                     Jagd weit verbreitete Tätigkeit (V.6)
                   </li>
                   <li>
-                    natürliche unberührte Umgebung -> typische Landschaft (V.9)
+                    {"natürliche unberührte Umgebung -> typische Landschaft (V.9)"}
                   </li>
                   <li>
                   Türme wesentlicher Bestandteil des Mittelalters (V.11)
@@ -370,10 +370,10 @@ lyrisches Ich ungefähr 25-mal erwähnt
                   Goethe differenziert
                 </li>
                 <li>
-                  Schegel sagt Universalpoesie -> alles kann damit poesiert werden
+                  {"Schegel sagt Universalpoesie -> alles kann damit poesiert werden"}
                 </li>
                 <li>
-                  Schegel romantische Dichtart nie vollendet -> entwickelt sich immer weiter (Dichter können damit machen was sie wollen)
+                  {"Schegel romantische Dichtart nie vollendet -> entwickelt sich immer weiter (Dichter können damit machen was sie wollen)"}
                 </li>
               </ul>
             </div>
@@ -465,13 +465,13 @@ Und wenn sie nicht gestorben sind, dann leben sie noch heute.
               <h3 className="text-2xl font-semibold mb-4 mt-3 text-gray-900">Bedeutung blaue Blume</h3>
               <ul className="list-disc pl-5">
                  <li>
-                    blaue Blume = Romantik -> in der er sich verliert / verliert sich in Phantasien
+                    {"blaue Blume = Romantik -> in der er sich verliert / verliert sich in Phantasien"}
                   </li>
                   <li>
-                  Verbindung von Traum & Wirklichkeit -> Blume erscheint im Traum -> im Leben aber fort
+                  {"Verbindung von Traum & Wirklichkeit -> Blume erscheint im Traum -> im Leben aber fort"}
                   </li>
                   <li>
-                  Romantik Sehnsucht nach Unendlichen -> nicht Besitz sondern streben (nach der  Blume)
+                  {"Romantik Sehnsucht nach Unendlichen -> nicht Besitz sondern streben (nach der  Blume)"}
                   </li> 
               </ul>
             </div>
@@ -583,13 +583,13 @@ Und wenn sie nicht gestorben sind, dann leben sie noch heute.
                     Sonntag in der Kirche (Z.20 f.)
                   </li> 
                   <li>
-                    Sonntag keine Arbeit -> kann man machen was man will (Z.23 ff.)
+                    {"Sonntag keine Arbeit -> kann man machen was man will (Z.23 ff.)"}
                   </li>
                   <li>
                     außergewöhnliche Ereignisse (Z.28 f.)
                   </li>
                   <li>
-                    => Pflichtbewusstsein -> der Arbeit verschrieben
+                    {"=> Pflichtbewusstsein -> der Arbeit verschrieben"}
                   </li>
               </ul>
               <h3 className="text-2xl font-semibold mb-4 mt-3 text-gray-900">Philister (Clemens Brentano)</h3>
@@ -626,10 +626,10 @@ Und wenn sie nicht gestorben sind, dann leben sie noch heute.
                       trockene Bürokratie & geistige Enge (Z.26 f.)
                   </li>
                   <li>
-                    Kleidung von Philisters -> Taugenichts übernimmt diese fast parodistisch (Z.30 ff.)
+                    {"Kleidung von Philisters -> Taugenichts übernimmt diese fast parodistisch (Z.30 ff.)"}
                   </li>
                   <li>
-                    => subtile Kritik an Welt der Philister -> Naturverbundenheit, Träumerische & Künstlerische des Taugenichts starker Kontrast
+                    {"=> subtile Kritik an Welt der Philister -> Naturverbundenheit, Träumerische & Künstlerische des Taugenichts starker Kontrast"}
                     zur kalten Zweckhaftigkeit & Angepasstheit des Beamtentums & kleinbürgerlichen Welt
                   </li>
               </ul>
