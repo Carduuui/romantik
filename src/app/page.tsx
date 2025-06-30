@@ -384,14 +384,19 @@ lyrisches Ich ungefähr 25-mal erwähnt
                 
                 className="rounded-lg shadow-lg"
               />
-              <img
+
+            </div>
+            <div>
+              <h3></h3>
+            </div>
+            <div className="flex justify-center items-center gap-4 relative" >
+            <img
                 src="/gegensatz2.png"
                 alt="Romantische Landschaft"
                 
                 className="rounded-lg shadow-lg"
               />
-            </div>
-            
+              </div>
           </div>
           
         </div>
