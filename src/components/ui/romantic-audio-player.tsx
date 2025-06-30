@@ -121,7 +121,7 @@ export function RomanticAudioPlayer({
 
   return (
     <Card
-      className={`p-6 bg-gradient-to-br from-rose-50/80 to-purple-50/80 backdrop-blur-sm border-rose-200/50 shadow-lg ${className}`}
+      className={`mt-10 p-6 bg-gradient-to-br from-rose-50/80 to-purple-50/80 backdrop-blur-sm border-rose-200/50 shadow-lg ${className}`}
     >
       <audio ref={audioRef} src={src} preload="metadata" />
 
