@@ -7,7 +7,6 @@ import Image from "next/image"
 import Link from "next/link"
 import SpinningBlueRose from "./flower"
 import { RomanticAudioPlayer } from "@/components/ui/romantic-audio-player"
-import Head from "next/head"
 
 export default function RomanticismWebsite() {
   const literaryWorks = [
@@ -77,7 +76,6 @@ export default function RomanticismWebsite() {
 
   return (
     <>
-
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-rose-50 to-amber-50">
       {/* Header */}
       <header className="border-b bg-white/80 backdrop-blur-sm sticky top-0 z-50">
